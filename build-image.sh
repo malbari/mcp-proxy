@@ -1,1 +1,1 @@
-docker build -t mcp-proxy-node .
+docker build -t node-mcp-proxy .
